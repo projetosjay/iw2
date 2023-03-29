@@ -611,6 +611,11 @@ section {
   background-size: cover;
   min-height: 500px;
 }
+.about .imagem {
+  background: url("../img/seguranca-informacao.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
 
 .about .skills-content {
   margin-top: 30px;
